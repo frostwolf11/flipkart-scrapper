@@ -33,8 +33,6 @@ request('https://www.flipkart.com/lc/getData?dataSourceId=websiteNavigationMenuD
         }
       }
     }
-
   }
-
 })
 
